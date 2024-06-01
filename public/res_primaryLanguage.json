@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Kalyani Bedre . Fictional person for preview purposes :) I'm working with newest front-end frameworks like React and Javascript.I am a goal-oriented and meticulous software developer with 3+ years of work experience in Application Development and Management with proficient knowledge of creating interactive UI, managing, and working in teams.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education":"Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Weather App",
+      "startDate": "2021",
+      "description": "I recently created a Weather Application that helps you check the temperature of almost all cities in the world.",
+      "images": [
+        "images/portfolio/weatherApp.jpg",
+        "images/portfolio/weatherApp1.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-oneapi-plain",
+          "name": "Rest API"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Cake App",
+      "startDate": "2020",
+      "description": "As a developer, I created a dynamic and user-friendly cake ordering application using React, Java, Redux, and MongoDB. This project involved building an interactive front-end for selecting and customizing cakes, a robust backend to handle orders and user authentication, and efficient state management to ensure seamless user experience.",
+      "images": [
+      "images/portfolio/cakeApp.jpg",
+      "images/portfolio/cake1.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen To-Do",
+      "startDate": "2023",
+      "description": "I built an intuitive Kitchen To-Do application using React, Java, Redux, and MongoDB. This project included developing a user-friendly interface for managing kitchen tasks, implementing a backend to store and retrieve tasks, and utilizing Redux for efficient state management to enhance user experience.",
+      "images": [
+      "images/portfolio/kitchenToDo.jpg",
+      "images/portfolio/ToDo.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-oneapi-plain",
+          "name": "API"
+        }
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "IT Business Analysis",
+      "startDate": "2023",
+      "description": "I gained expertise in bridging the gap between business needs and technology solutions, learning to analyze requirements, model business processes, and implement IT strategies effectively. My studies equipped me with the skills to optimize business performance through the strategic use of technology.",
+      "images": [
+        "images/portfolio/800px-George_Brown_College_logo.svg.png"        
+
+      ],
+      "url": "https://www.georgebrown.ca/programs/information-systems-business-analysis-program-with-experiential-learning-capstone-postgraduate-t405"
+      
+    },
+    {
+      "title": "IT Project Management",
+      "startDate": "2022",
+      "description": "I mastered the art of planning, executing, and overseeing IT projects, ensuring they meet scope, time, and budget constraints. My studies focused on developing leadership, risk management, and communication skills essential for successful project delivery.",
+      "images": [
+        "images/portfolio/seneca.png",
+        "images/portfolio/seneca.png"
+      ],
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/PMC/courses.html"
+      
+    },
+    {
+      "title": "Computer Engineering",
+      "startDate": "2014",
+      "description": "Delved into the design and development of computer systems, blending principles of electrical engineering and computer science. My studies equipped you with the skills to innovate and optimize hardware and software solutions.",
+      "images": [
+        "images/portfolio/jspm.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "http://www.unipune.ac.in/dept/science/computer_science/default.htm"
+     
+    }
+  ],
+  "experience": [
+    {
+      "company": "Self Learner / Freelancer",
+      "title": "Software Developer",
+      "years": "12.2023 - Present",
+      "mainTech": [
+        "React JS , Javascript, Mongo DB, Mongoose, Node JS"
+      ],
+      "technologies": [
+        "Web Development",
+        "Requirement Gathering",
+        "JIRA",
+        "JavaScript",
+        "Bootstrap",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "company": "Skill Squirrel, Mississauga, ON",
+      "title": "Project Management Intern",
+      "years": "05.2022 - 09.2022",
+      "mainTech": [
+        "React JS , Javascript"
+      ],
+      "technologies": [
+        "Web Development",
+        "Requirement Gathering",
+        "JIRA",
+        "JavaScript",
+        "Bootstrap",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "company": "IBM India Private Limited ",
+      "title": "Senior Systems Engineer",
+      "years": "08.2021 - 12.2021",
+      "mainTech": [
+        "React JS , Javascript , Redux, Mongo DB, Node JS, Express JS"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "React JS",
+        "Redux",
+        "Mongo DB",
+        "Node JS",
+        "Express JS"
+      ]
+    },{
+      "company": "Infosys India Limited",
+      "title": "Senior Systems Engineer",
+      "years": "12.2018 - 08.2021",
+      "mainTech": [
+        "React JS , Javascript ,Java, Redux, SQL"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "React JS",
+        "Redux",
+        "Mongo DB",
+        "Node JS",
+        "Express JS",
+        "NPM",
+        "Template Engines"
+      ]
+    }
+  ]
+}
