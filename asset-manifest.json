@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio_kalyani/static/css/main.d59df61f.chunk.css",
+    "main.js": "/portfolio_kalyani/static/js/main.21f96c61.chunk.js",
+    "main.js.map": "/portfolio_kalyani/static/js/main.21f96c61.chunk.js.map",
+    "runtime-main.js": "/portfolio_kalyani/static/js/runtime-main.e826cd49.js",
+    "runtime-main.js.map": "/portfolio_kalyani/static/js/runtime-main.e826cd49.js.map",
+    "static/css/2.d64471e2.chunk.css": "/portfolio_kalyani/static/css/2.d64471e2.chunk.css",
+    "static/js/2.3d1737ab.chunk.js": "/portfolio_kalyani/static/js/2.3d1737ab.chunk.js",
+    "static/js/2.3d1737ab.chunk.js.map": "/portfolio_kalyani/static/js/2.3d1737ab.chunk.js.map",
+    "index.html": "/portfolio_kalyani/index.html",
+    "precache-manifest.672cb63efa6008da7e4ad6865d46ba69.js": "/portfolio_kalyani/precache-manifest.672cb63efa6008da7e4ad6865d46ba69.js",
+    "service-worker.js": "/portfolio_kalyani/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/portfolio_kalyani/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.d59df61f.chunk.css.map": "/portfolio_kalyani/static/css/main.d59df61f.chunk.css.map",
+    "static/js/2.3d1737ab.chunk.js.LICENSE.txt": "/portfolio_kalyani/static/js/2.3d1737ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e826cd49.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.3d1737ab.chunk.js",
+    "static/css/main.d59df61f.chunk.css",
+    "static/js/main.21f96c61.chunk.js"
+  ]
+}

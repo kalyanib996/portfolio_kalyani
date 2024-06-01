@@ -1,0 +1,108 @@
+{
+  "basic_info": {
+    "name": "Kalyani Bedre",
+    "titles": [
+      "Front-end Developer",
+      "JavaScript Developer",
+      "NodeJs Developer",
+      "ReactJs Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/kalyanib996",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myimg.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "React JS",
+        "class": "devicon-react-plain",
+        "level": "95"
+      },
+      {
+        "name": "Node JS",
+        "class": "devicon-nodejs-plain",
+        "level": "95"
+      },
+      {
+        "name": "Express JS",
+        "class": "devicon-express-original",
+        "level": "70"
+      },
+      {
+        "name": "Mongo DB",
+        "class": "devicon-mongodb-plain",
+        "level": "70"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "70"
+      },
+      {
+        "name": "Advanced Javascript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-plain",
+        "level": "70"
+      },
+      {
+        "name": "React Hooks",
+        "class": "devicon-axios-plain",
+        "level": "70"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Agile Methodology",
+        "class": "devicon-rxjs-plain",
+        "level": "70"
+      },
+      {
+        "name": "Software Development Lifecycle",
+        "class": "devicon-json-plain",
+        "level": "70"
+      }
+    ]
+  }
+}
