@@ -9,14 +9,14 @@
     ],
     "social": [
       {
-        "name": "github",
+        "name": "Github",
         "url": "https://github.com/kalyanib996",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kalyani-bedre-224b444b",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myimg.jpg"

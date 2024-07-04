@@ -12,6 +12,32 @@
   },
   "projects": [
     {
+      "title": "KayBee-Store",
+      "startDate": "2024",
+      "description": "I built an Ecommerce website using MERN stack (Mongo DB, Express JS, React, Node).This project included developing a user-friendly interface for a shopping website similar to Amazon, implementing a backend to store and retrieve products, and utilizing Context Hooks for efficient state management and to enhance user experience. The server is hosted using Railway App (I am using a free hosting plan valid for 500 hours.Please connect with me incase you dont see data on the screen.)",
+      "images": [
+      "images/portfolio/KayBee-Store-home.PNG",
+      "images/portfolio/KayBee-Store-products.PNG",
+      "images/portfolio/KayBee-Store-contact.PNG",
+      "images/portfolio/KayBee-Store-cart.PNG"
+      ],
+      "url": "https://kalyanib996.github.io/KayBee-Store/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-oneapi-plain",
+          "name": "API"
+        }
+      ]
+    },
+    {
       "title": "Weather App",
       "startDate": "2021",
       "description": "I recently created a Weather Application that helps you check the temperature of almost all cities in the world.",
@@ -19,7 +45,7 @@
         "images/portfolio/weatherApp.jpg",
         "images/portfolio/weatherApp1.jpg"
       ],
-      "url": "",
+      "url": "https://kalyanib996.github.io/Weather-App/",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -43,7 +69,7 @@
       "images/portfolio/cakeApp.jpg",
       "images/portfolio/cake1.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/kalyanib996/cake-app",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -54,31 +80,8 @@
           "name": "JavaScript"
         }
       ]
-    },
-    {
-      "title": "Kitchen To-Do",
-      "startDate": "2023",
-      "description": "I built an intuitive Kitchen To-Do application using React, Java, Redux, and MongoDB. This project included developing a user-friendly interface for managing kitchen tasks, implementing a backend to store and retrieve tasks, and utilizing Redux for efficient state management to enhance user experience.",
-      "images": [
-      "images/portfolio/kitchenToDo.jpg",
-      "images/portfolio/ToDo.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-plain",
-          "name": "React JS"
-        },
-        {
-          "class": "devicon-redux-plain",
-          "name": "Redux"
-        },
-        {
-          "class": "devicon-oneapi-plain",
-          "name": "API"
-        }
-      ]
     }
+   
   ],
 
   "education": [
